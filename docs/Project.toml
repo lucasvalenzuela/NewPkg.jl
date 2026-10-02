@@ -1,0 +1,6 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+NewPkg = "e1321074-4899-4ac1-9685-3b9b27bdf702"
+
+[sources]
+NewPkg = {path = ".."}

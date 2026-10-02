@@ -1,0 +1,7 @@
+name = "NewPkg"
+uuid = "e1321074-4899-4ac1-9685-3b9b27bdf702"
+authors = ["Lucas Valenzuela"]
+version = "0.1.0"
+
+[compat]
+julia = "1.12"
