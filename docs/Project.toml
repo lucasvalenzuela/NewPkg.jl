@@ -4,3 +4,6 @@ NewPkg = "e1321074-4899-4ac1-9685-3b9b27bdf702"
 
 [sources]
 NewPkg = {path = ".."}
+
+[compat]
+Documenter = "1"
